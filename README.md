@@ -71,8 +71,7 @@ vehicleRoutingProblem
 
 ## 📞 Contact
 
-Sparsh Soni - [@Sparsh Soni](https://linkedin.com/in/sparshsoni) - sparsh.officialwork@gmail.com
+Ashwani Rawat - [@Ashwani Rawat](www.linkedin.com/in/ashwani-rawat25) -ashwanirawat625@gmail.com
 
-Project Link: [https://github.com/PacemakerX/Genetic-Algorithm-for-VRP.git](https://github.com/PacemakerX/Genetic-Algorithm-for-VRP.git)
 
 ## ⭐️ Don't forget to give the project a star if you found it useful!
